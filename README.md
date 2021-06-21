@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yamas-SA
 - 👀 I’m interested in Big Data, Machine Learning and Data Analysis
-- 🌱 I’m currently learning Machine Learning Deployment and other cool stuff
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning Deployment and other cool stuff 
 - 📫 How to reach me yamas@speakagent.com
 
 <!---
